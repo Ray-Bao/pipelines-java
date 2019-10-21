@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/rbao0721/TestCI/_apis/build/status/Ray-Bao.pipelines-java?branchName=master)](https://dev.azure.com/rbao0721/TestCI/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
